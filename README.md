@@ -1,2 +1,2 @@
-# GamerRants
+# Working idea
 Social website
