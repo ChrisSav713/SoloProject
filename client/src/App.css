@@ -1,0 +1,35 @@
+button {
+    padding: 0.5rem;
+}
+
+.instructions {
+    font-size: 0.75rem;
+    border-radius: 0.5rem;
+    background: lightpink;
+    color: firebrick;
+    padding: 0.25rem;
+    position: relative;
+    bottom: -10px;
+}
+
+.instructions>svg {
+    margin-right: 0.25rem;
+}
+
+.hide {
+    visibility: hidden;
+}
+
+.show {
+    visibility: visible;
+}
+
+.valid {
+    color: limegreen;
+    margin-left: 0.25rem;
+}
+
+.invalid {
+    color: red;
+    margin-left: 0.25rem;
+}
